@@ -1,0 +1,3445 @@
+[acu] Current Price per Share: 23.8 Max good value price: 36.8
+------------------------------
+[Completed] Does not meet Criteria: acu
+[acu Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.9823E7Price to Earnings: 9.70108695652174 Price to BookValue: 1.0510134622853062Price to earnings x Price to book: 10.195972990104739
+[hwm-p] Current Price per Share: 69.5 Max good value price: 5.1499999999999995
+------------------------------
+[Completed] Does not meet Criteria: hwm-p
+[hwm-p Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.421E9Price to Earnings: 202.4271844660194 Price to BookValue: 8.439201914937152Price to earnings x Price to book: 1708.3238827809673
+[axp] Current Price per Share: 139.0 Max good value price: 108.9
+------------------------------
+[Completed] Does not meet Criteria: axp
+[axp Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.3235E10Price to Earnings: 19.14600550964187 Price to BookValue: 4.485256839724554Price to earnings x Price to book: 85.8747521655252
+[aig-pa] Current Price per Share: 23.74 Max good value price: 38.4
+------------------------------
+[Completed] Does not meet Criteria: aig-pa
+[aig-pa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.6824E10Price to Earnings: 9.2734375 Price to BookValue: 0.3855347521531693Price to earnings x Price to book: 3.575232428170406
+[celg-ri] Current Price per Share: 0.1315 Max good value price: 5.699999999999998
+------------------------------
+[Completed] Does not meet Criteria: celg-ri
+[celg-ri Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.2661E10Price to Earnings: 0.3460526315789475 Price to BookValue: 0.008596982740179419Price to earnings x Price to book: 0.002975008500877879
+[clx] Current Price per Share: 125.76 Max good value price: 96.30000000000001
+------------------------------
+[Completed] Does not meet Criteria: clx
+[clx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.29E8Price to Earnings: 19.58878504672897 Price to BookValue: 21.24689340707819Price to earnings x Price to book: 416.20082786201755
+[cna] Current Price per Share: 37.49 Max good value price: 53.05
+------------------------------
+[Completed] Does not meet Criteria: cna
+[cna Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 9.512E9Price to Earnings: 10.600377002827521 Price to BookValue: 1.0693605821825065Price to earnings x Price to book: 11.335625323097691
+[ctg] Current Price per Share: 6.97 Max good value price: 8.700000000000001
+------------------------------
+[Completed] Does not meet Criteria: ctg
+[ctg Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 9.5307E7Price to Earnings: 12.017241379310343 Price to BookValue: 1.1349508563904014Price to earnings x Price to book: 13.638978394898443
+[eml] Current Price per Share: 18.36 Max good value price: 32.3
+------------------------------
+[Completed] Does not meet Criteria: eml
+[eml Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.20297476E8Price to Earnings: 8.526315789473683 Price to BookValue: 0.948873865317008Price to earnings x Price to book: 8.09039822007133
+[educ] Current Price per Share: 2.375 Max good value price: 15.800000000000002
+------------------------------
+[Completed] Does not meet Criteria: educ
+[educ Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.66241E7Price to Earnings: 2.2547468354430378 Price to BookValue: 0.44242272504992053Price to earnings x Price to book: 0.9975512392343935
+[esca] Current Price per Share: 10.76 Max good value price: 20.400000000000002
+------------------------------
+[Completed] Does not meet Criteria: esca
+[esca Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.55993E8Price to Earnings: 7.911764705882352 Price to BookValue: 0.93743167526748Price to earnings x Price to book: 7.416738842557415
+[boom] Current Price per Share: 16.96 Max good value price: 9.6
+------------------------------
+[Completed] Does not meet Criteria: boom
+[boom Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 5.52251E8Price to Earnings: 26.5 Price to BookValue: 0.5997213128088497Price to earnings x Price to book: 15.892614789434516
+[ffin] Current Price per Share: 43.02 Max good value price: 21.099999999999998
+------------------------------
+[Completed] Does not meet Criteria: ffin
+[ffin Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.329018E9Price to Earnings: 30.5829383886256 Price to BookValue: 4.61406893893085Price to earnings x Price to book: 141.11178608019327
+[fhb] Current Price per Share: 24.98 Max good value price: 28.049999999999997
+------------------------------
+[Completed] Does not meet Criteria: fhb
+[fhb Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.252611E9Price to Earnings: 13.358288770053477 Price to BookValue: 1.4160960441017114Price to earnings x Price to book: 18.916619883241044
+[frd] Current Price per Share: 7.26 Max good value price: 14.6
+------------------------------
+[Completed] Does not meet Criteria: frd
+[frd Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.9686648E7Price to Earnings: 7.458904109589041 Price to BookValue: 0.671331166797228Price to earnings x Price to book: 5.007394798919051
+[ful] Current Price per Share: 64.62 Max good value price: 39.25
+------------------------------
+[Completed] Does not meet Criteria: ful
+[ful Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.578685E9Price to Earnings: 24.695541401273886 Price to BookValue: 2.1822481221142915Price to earnings x Price to book: 53.89179884752568
+[gatx] Current Price per Share: 90.24 Max good value price: 70.3
+------------------------------
+[Completed] Does not meet Criteria: gatx
+[gatx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.9815E9Price to Earnings: 19.25462304409673 Price to BookValue: 1.6076063588190763Price to earnings x Price to book: 30.95385444235422
+[hsc] Current Price per Share: 4.41 Max good value price: 29.1
+------------------------------
+[Completed] Does not meet Criteria: hsc
+[hsc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.51703E8Price to Earnings: 2.2731958762886597 Price to BookValue: 0.5375052294373357Price to earnings x Price to book: 1.2218546710405414
+[hei-a] Current Price per Share: 116.89 Max good value price: 34.45
+------------------------------
+[Completed] Does not meet Criteria: hei-a
+[hei-a Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.788978E9Price to Earnings: 50.8955007256894 Price to BookValue: 1.1276669682371105Price to earnings x Price to book: 57.39317500024783
+[hbanp] Current Price per Share: 17.89 Max good value price: 14.299999999999999
+------------------------------
+[Completed] Does not meet Criteria: hbanp
+[hbanp Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.7979E10Price to Earnings: 18.765734265734267 Price to BookValue: 1.4350551651460037Price to earnings x Price to book: 26.92986388579931
+[ryn] Current Price per Share: 31.48 Max good value price: 9.05
+------------------------------
+[Completed] Does not meet Criteria: ryn
+[ryn Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.825994E9Price to Earnings: 52.17679558011049 Price to BookValue: 2.5243016918785055Price to earnings x Price to book: 131.70997335967184
+[kr] Current Price per Share: 43.0 Max good value price: 37.4
+------------------------------
+[Completed] Does not meet Criteria: kr
+[kr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 9.639E9Price to Earnings: 17.245989304812834 Price to BookValue: 3.1932432531382924Price to earnings x Price to book: 55.07063899128873
+[klic] Current Price per Share: 40.73 Max good value price: 33.949999999999996
+------------------------------
+[Completed] Does not meet Criteria: klic
+[klic Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.206733E9Price to Earnings: 17.99558173784978 Price to BookValue: 1.9599260149925457Price to earnings x Price to book: 35.270008802936545
+[vgr] Current Price per Share: 8.89 Max good value price: 13.149999999999999
+------------------------------
+[Completed] Does not meet Criteria: vgr
+[vgr Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -8.30912E8Price to Earnings: 10.14068441064639 Price to BookValue: -1.6561748642214822Price to earnings x Price to book: -16.794746626915185
+[leco] Current Price per Share: 124.04 Max good value price: 63.5
+------------------------------
+[Completed] Does not meet Criteria: leco
+[leco Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 9.12983E8Price to Earnings: 29.300787401574805 Price to BookValue: 7.869056227202479Price to earnings x Price to book: 230.56954356429816
+[low] Current Price per Share: 197.21 Max good value price: 126.40000000000002
+------------------------------
+[Completed] Does not meet Criteria: low
+[low Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -8.442E9Price to Earnings: 23.403085443037973 Price to BookValue: -14.499924048574982Price to earnings x Price to book: -339.3429614263614
+[mas] Current Price per Share: 48.62 Max good value price: 47.15
+------------------------------
+[Completed] Does not meet Criteria: mas
+[mas Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -5.41E8Price to Earnings: 15.467656415694591 Price to BookValue: -20.26758967663586Price to earnings x Price to book: -313.49211349248213
+[cvs] Current Price per Share: 88.25 Max good value price: 82.45
+------------------------------
+[Completed] Does not meet Criteria: cvs
+[cvs Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.5506E10Price to Earnings: 16.05518496058217 Price to BookValue: 1.5344097451560141Price to earnings x Price to book: 24.63523226379956
+[mcy] Current Price per Share: 28.33 Max good value price: 85.15
+------------------------------
+[Completed] Does not meet Criteria: mcy
+[mcy Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.662365E9Price to Earnings: 4.990604815032295 Price to BookValue: 0.9436339359346473Price to earnings x Price to book: 4.7093040643033275
+[fizz] Current Price per Share: 39.0 Max good value price: 24.699999999999996
+------------------------------
+[Completed] Does not meet Criteria: fizz
+[fizz Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.64105E8Price to Earnings: 23.68421052631579 Price to BookValue: 13.78312259896632Price to earnings x Price to book: 326.4423773439392
+[nobh] Current Price per Share: 24.7 Max good value price: 27.299999999999994
+------------------------------
+[Completed] Does not meet Criteria: nobh
+[nobh Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.5168741E7Price to Earnings: 13.571428571428575 Price to BookValue: 1.8433439709997672Price to earnings x Price to book: 25.016811034996845
+[wfc-pz] Current Price per Share: 18.57 Max good value price: 47.349999999999994
+------------------------------
+[Completed] Does not meet Criteria: wfc-pz
+[wfc-pz Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.79793E11Price to Earnings: 5.882787750791976 Price to BookValue: -0.0518408019477399Price to earnings x Price to book: -0.30496843468939705
+[ph] Current Price per Share: 254.19 Max good value price: 170.89999999999998
+------------------------------
+[Completed] Does not meet Criteria: ph
+[ph Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.85992E9Price to Earnings: 22.310415447630195 Price to BookValue: 3.683865972540384Price to earnings x Price to book: 82.18858030076422
+[pnr] Current Price per Share: 40.91 Max good value price: 37.65
+------------------------------
+[Completed] Does not meet Criteria: pnr
+[pnr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.563E9Price to Earnings: 16.298804780876495 Price to BookValue: 2.625070230167772Price to earnings x Price to book: 42.78550721759504
+[pep] Current Price per Share: 161.61 Max good value price: 79.05
+------------------------------
+[Completed] Does not meet Criteria: pep
+[pep Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.8674E10Price to Earnings: 30.66603415559773 Price to BookValue: 11.943638836823393Price to earnings x Price to book: 366.2640365121497
+[pfe] Current Price per Share: 42.32 Max good value price: 41.50000000000001
+------------------------------
+[Completed] Does not meet Criteria: pfe
+[pfe Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.7469E10Price to Earnings: 15.296385542168673 Price to BookValue: 0.6373882471522483Price to earnings x Price to book: 9.749736368487884
+[uslm] Current Price per Share: 105.66 Max good value price: 80.9
+------------------------------
+[Completed] Does not meet Criteria: uslm
+[uslm Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.9617E8Price to Earnings: 19.590852904820764 Price to BookValue: 2.024086276800486Price to earnings x Price to book: 39.65357651546465
+[rskia] Current Price per Share: 11.5 Max good value price: 16.6
+------------------------------
+[Completed] Does not meet Criteria: rskia
+[rskia Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.995E7Price to Earnings: 10.391566265060241 Price to BookValue: 1.1352625025025025Price to earnings x Price to book: 11.797155522992872
+[rol] Current Price per Share: 36.16 Max good value price: 8.249999999999998
+------------------------------
+[Completed] Does not meet Criteria: rol
+[rol Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.145567E9Price to Earnings: 65.74545454545455 Price to BookValue: 15.543229444563258Price to earnings x Price to book: 1021.8966849371044
+[stc] Current Price per Share: 43.84 Max good value price: 107.15
+------------------------------
+[Completed] Does not meet Criteria: stc
+[stc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.359821E9Price to Earnings: 6.13719085394307 Price to BookValue: 0.8739787825603518Price to earnings x Price to book: 5.36377459086969
+[ter] Current Price per Share: 77.33 Max good value price: 62.05
+------------------------------
+[Completed] Does not meet Criteria: ter
+[ter Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.298596E9Price to Earnings: 18.69379532634972 Price to BookValue: 5.274492479061131Price to earnings x Price to book: 98.6002828539397
+[tkr] Current Price per Share: 63.67 Max good value price: 66.1
+------------------------------
+[Completed] Does not meet Criteria: tkr
+[tkr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.5405E9Price to Earnings: 14.44856278366112 Price to BookValue: 1.840740726486912Price to earnings x Price to book: 26.59605795508813
+[uvv] Current Price per Share: 44.02 Max good value price: 49.3
+------------------------------
+[Completed] Does not meet Criteria: uvv
+[uvv Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.360059E9Price to Earnings: 13.393509127789049 Price to BookValue: 0.7962846982520612Price to earnings x Price to book: 10.665046374357729
+[wdfc] Current Price per Share: 176.56 Max good value price: 67.55
+------------------------------
+[Completed] Does not meet Criteria: wdfc
+[wdfc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.95229E8Price to Earnings: 39.20651369356033 Price to BookValue: 12.324301117969155Price to earnings x Price to book: 483.19288054521854
+[eme] Current Price per Share: 120.28 Max good value price: 76.05
+------------------------------
+[Completed] Does not meet Criteria: eme
+[eme Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.952791E9Price to Earnings: 23.723865877712036 Price to BookValue: 3.0395521876944334Price to earnings x Price to book: 72.10992842916893
+[weys] Current Price per Share: 20.5 Max good value price: 16.75
+------------------------------
+[Completed] Does not meet Criteria: weys
+[weys Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.03437E8Price to Earnings: 18.35820895522388 Price to BookValue: 0.9664575495116424Price to earnings x Price to book: 17.74242964028836
+[spb] Current Price per Share: 42.1 Max good value price: 81.69999999999999
+------------------------------
+[Completed] Does not meet Criteria: spb
+[spb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.3122E9Price to Earnings: 7.7294981640146885 Price to BookValue: 1.308244602423411Price to earnings x Price to book: 10.11207425251388
+[natr] Current Price per Share: 8.13 Max good value price: 14.15
+------------------------------
+[Completed] Does not meet Criteria: natr
+[natr Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.44479E8Price to Earnings: 8.618374558303888 Price to BookValue: 1.0818128715591886Price to earnings x Price to book: 9.323468529091382
+[fss] Current Price per Share: 41.15 Max good value price: 24.750000000000004
+------------------------------
+[Completed] Does not meet Criteria: fss
+[fss Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.091E8Price to Earnings: 24.939393939393938 Price to BookValue: 3.083411153503893Price to earnings x Price to book: 76.89840543435466
+[mux] Current Price per Share: 3.82 Max good value price: -3.3500000000000005
+------------------------------
+[Completed] Does not meet Criteria: mux
+[mux Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.81981E8Price to Earnings: -17.104477611940297 Price to BookValue: 0.47429684068055744Price to earnings x Price to book: -8.112599692834609
+[buse] Current Price per Share: 22.69 Max good value price: 29.5
+------------------------------
+[Completed] Does not meet Criteria: buse
+[buse Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.161957E9Price to Earnings: 11.53728813559322 Price to BookValue: 1.0782582152954026Price to earnings x Price to book: 12.440175714433568
+[de] Current Price per Share: 356.15 Max good value price: 189.14999999999998
+------------------------------
+[Completed] Does not meet Criteria: de
+[de Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.9131E10Price to Earnings: 28.24345757335448 Price to BookValue: 5.618789463410172Price to earnings x Price to book: 158.69404182343638
+[pebo] Current Price per Share: 29.04 Max good value price: 32.55
+------------------------------
+[Completed] Does not meet Criteria: pebo
+[pebo Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.86824E8Price to Earnings: 13.382488479262673 Price to BookValue: 1.044395285756408Price to earnings x Price to book: 13.976607879431377
+[klac] Current Price per Share: 314.16 Max good value price: 142.8
+------------------------------
+[Completed] Does not meet Criteria: klac
+[klac Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.39909E9Price to Earnings: 33.0 Price to BookValue: 31.84146428618602Price to earnings x Price to book: 1050.7683214441388
+[hd] Current Price per Share: 284.32 Max good value price: 188.6
+------------------------------
+[Completed] Does not meet Criteria: hd
+[hd Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.37E8Price to Earnings: 22.612937433722166 Price to BookValue: 1228.1261699314766Price to earnings x Price to book: 27771.54024137732
+[atri] Current Price per Share: 583.73 Max good value price: 276.75000000000006
+------------------------------
+[Completed] Does not meet Criteria: atri
+[atri Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.52349E8Price to Earnings: 31.638482384823845 Price to BookValue: 4.131323520085279Price to earnings x Price to book: 130.70880641622654
+[sbsi] Current Price per Share: 35.43 Max good value price: 40.7
+------------------------------
+[Completed] Does not meet Criteria: sbsi
+[sbsi Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.31782E8Price to Earnings: 13.057739557739557 Price to BookValue: 1.554335192939974Price to earnings x Price to book: 20.296104134839045
+[onbpp] Current Price per Share: 24.83 Max good value price: 22.05
+------------------------------
+[Completed] Does not meet Criteria: onbpp
+[onbpp Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.078783E9Price to Earnings: 16.891156462585034 Price to BookValue: 1.4319440680966284Price to earnings x Price to book: 24.18719129989067
+[gabc] Current Price per Share: 35.82 Max good value price: 39.0
+------------------------------
+[Completed] Does not meet Criteria: gabc
+[gabc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.74429E8Price to Earnings: 13.776923076923076 Price to BookValue: 1.8385706616135327Price to earnings x Price to book: 25.329846576537207
+[pwod] Current Price per Share: 23.25 Max good value price: 33.15
+------------------------------
+[Completed] Does not meet Criteria: pwod
+[pwod Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.66054E8Price to Earnings: 10.520361990950226 Price to BookValue: 0.9874175057511412Price to earnings x Price to book: 10.387989596703182
+[fusb] Current Price per Share: 7.9 Max good value price: 8.65
+------------------------------
+[Completed] Does not meet Criteria: fusb
+[fusb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.2576E7Price to Earnings: 13.699421965317919 Price to BookValue: 0.5586385656849447Price to earnings x Price to book: 7.653025437418029
+[sfb] Current Price per Share: 21.5 Max good value price: 72.4
+------------------------------
+[Completed] Does not meet Criteria: sfb
+[sfb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 5.124737E9Price to Earnings: 4.454419889502762 Price to BookValue: 0.2919302304684123Price to earnings x Price to book: 1.300379824945621
+[lkfn] Current Price per Share: 72.76 Max good value price: 52.099999999999994
+------------------------------
+[Completed] Does not meet Criteria: lkfn
+[lkfn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.62063E8Price to Earnings: 20.948176583493286 Price to BookValue: 3.2818152540195675Price to earnings x Price to book: 68.74804545560377
+[jbht] Current Price per Share: 160.06 Max good value price: 83.25
+------------------------------
+[Completed] Does not meet Criteria: jbht
+[jbht Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.57603E9Price to Earnings: 28.839639639639643 Price to BookValue: 4.646586205535189Price to earnings x Price to book: 134.0058717221554
+[unh] Current Price per Share: 504.85 Max good value price: 242.19999999999996
+------------------------------
+[Completed] Does not meet Criteria: unh
+[unh Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.1127E10Price to Earnings: 31.266515276630887 Price to BookValue: 5.820848313674856Price to earnings x Price to book: 181.99764272246603
+[hbia] Current Price per Share: 71.0 Max good value price: 70.65
+------------------------------
+[Completed] Does not meet Criteria: hbia
+[hbia Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.66582E8Price to Earnings: 15.074309978768577 Price to BookValue: 1.4097306239846372Price to earnings x Price to book: 21.25071641250727
+[cac] Current Price per Share: 40.82 Max good value price: 61.2
+------------------------------
+[Completed] Does not meet Criteria: cac
+[cac Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.46381E8Price to Earnings: 10.004901960784313 Price to BookValue: 1.3374265637650347Price to earnings x Price to book: 13.380821650217822
+[banfp] Current Price per Share: 27.0 Max good value price: 60.400000000000006
+------------------------------
+[Completed] Does not meet Criteria: banfp
+[banfp Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.185695E9Price to Earnings: 6.705298013245032 Price to BookValue: 0.7466212575746713Price to earnings x Price to book: 5.006318035061951
+[bpopm] Current Price per Share: 25.38 Max good value price: 121.05000000000001
+------------------------------
+[Completed] Does not meet Criteria: bpopm
+[bpopm Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.293349E9Price to Earnings: 3.144981412639405 Price to BookValue: 0.44342415139789476Price to earnings x Price to book: 1.3945607140617804
+[clf] Current Price per Share: 14.83 Max good value price: 30.35
+------------------------------
+[Completed] Does not meet Criteria: clf
+[clf Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.994E9Price to Earnings: 7.329489291598023 Price to BookValue: 1.0968720512196168Price to earnings x Price to book: 8.03951195366734
+[sbfg] Current Price per Share: 16.82 Max good value price: 30.15
+------------------------------
+[Completed] Does not meet Criteria: sbfg
+[sbfg Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.24556E8Price to Earnings: 8.3681592039801 Price to BookValue: 0.9674153529336201Price to earnings x Price to book: 8.09548568972313
+[indb] Current Price per Share: 76.95 Max good value price: 60.7
+------------------------------
+[Completed] Does not meet Criteria: indb
+[indb Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.871185E9Price to Earnings: 19.015650741350907 Price to BookValue: 1.230149516593323Price to earnings x Price to book: 23.392093567180282
+[por] Current Price per Share: 42.4 Max good value price: 34.150000000000006
+------------------------------
+[Completed] Does not meet Criteria: por
+[por Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.738E9Price to Earnings: 18.623718887262076 Price to BookValue: 1.3819929557341124Price to earnings x Price to book: 25.73784831176853
+[ehc] Current Price per Share: 48.44 Max good value price: 52.85
+------------------------------
+[Completed] Does not meet Criteria: ehc
+[ehc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.5446E9Price to Earnings: 13.748344370860925 Price to BookValue: 1.899405880468443Price to earnings x Price to book: 26.113686144718457
+[int] Current Price per Share: 25.29 Max good value price: 27.800000000000004
+------------------------------
+[Completed] Does not meet Criteria: int
+[int Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.9203E9Price to Earnings: 13.645683453237409 Price to BookValue: 0.8154297910170286Price to earnings x Price to book: 11.127096806557905
+[nc] Current Price per Share: 48.36 Max good value price: 72.25000000000001
+------------------------------
+[Completed] Does not meet Criteria: nc
+[nc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.02603E8Price to Earnings: 10.040138408304497 Price to BookValue: -1.2011832996773498E-7Price to earnings x Price to book: -1.206004658250449E-6
+[csr-pc] Current Price per Share: 24.25 Max good value price: 26.9
+------------------------------
+[Completed] Does not meet Criteria: csr-pc
+[csr-pc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.029245E9Price to Earnings: 13.522304832713756 Price to BookValue: 0.3621873900286132Price to earnings x Price to book: 4.897608294531898
+[qcom] Current Price per Share: 120.91 Max good value price: 79.9
+------------------------------
+[Completed] Does not meet Criteria: qcom
+[qcom Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.6048E10Price to Earnings: 22.698998748435542 Price to BookValue: 8.460987662013958Price to earnings x Price to book: 192.05594835058338
+[prk] Current Price per Share: 125.51 Max good value price: 117.3
+------------------------------
+[Completed] Does not meet Criteria: prk
+[prk Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.050013E9Price to Earnings: 16.04987212276215 Price to BookValue: 1.9428461218480153Price to earnings x Price to book: 31.182431809865015
+[cznc] Current Price per Share: 23.07 Max good value price: 23.4
+------------------------------
+[Completed] Does not meet Criteria: cznc
+[cznc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.58619E8Price to Earnings: 14.78846153846154 Price to BookValue: 0.001382046601371129Price to earnings x Price to book: 0.020438343008738428
+[smmf] Current Price per Share: 26.73 Max good value price: 42.05
+------------------------------
+[Completed] Does not meet Criteria: smmf
+[smmf Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.33891E8Price to Earnings: 9.535077288941736 Price to BookValue: 1.0228331275775628Price to earnings x Price to book: 9.752792925142064
+[mtn] Current Price per Share: 219.49 Max good value price: 64.35
+------------------------------
+[Completed] Does not meet Criteria: mtn
+[mtn Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.847484E9Price to Earnings: 51.163170163170165 Price to BookValue: 4.785603953116779Price to earnings x Price to book: 244.8466693868536
+[ain] Current Price per Share: 83.35 Max good value price: 53.99999999999999
+------------------------------
+[Completed] Does not meet Criteria: ain
+[ain Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.21782E8Price to Earnings: 23.15277777777778 Price to BookValue: -1.0142592561044169E-7Price to earnings x Price to book: -2.3482919165639765E-6
+[wm] Current Price per Share: 155.24 Max good value price: 58.6
+------------------------------
+[Completed] Does not meet Criteria: wm
+[wm Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.192E9Price to Earnings: 39.737201365187715 Price to BookValue: 8.921890488959956Price to earnings x Price to book: 354.5309589179549
+[eix] Current Price per Share: 58.63 Max good value price: 38.75
+------------------------------
+[Completed] Does not meet Criteria: eix
+[eix Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.7675E10Price to Earnings: 22.695483870967742 Price to BookValue: 1.265253594373409Price to earnings x Price to book: 28.715542543785663
+[sbux] Current Price per Share: 87.03 Max good value price: 36.25
+------------------------------
+[Completed] Does not meet Criteria: sbux
+[sbux Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -8.6589E9Price to Earnings: 36.01241379310345 Price to BookValue: -11.532437376572082Price to earnings x Price to book: -415.3109068481662
+[iex] Current Price per Share: 202.03 Max good value price: 81.9
+------------------------------
+[Completed] Does not meet Criteria: iex
+[iex Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.788E9Price to Earnings: 37.001831501831504 Price to BookValue: 5.469274203066714Price to earnings x Price to book: 202.37316249918834
+[sig] Current Price per Share: 57.36 Max good value price: 63.40000000000001
+------------------------------
+[Completed] Does not meet Criteria: sig
+[sig Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.0209E9Price to Earnings: 13.57097791798107 Price to BookValue: 1.312599939947548Price to earnings x Price to book: 17.813264800171453
+[powi] Current Price per Share: 65.61 Max good value price: 35.4
+------------------------------
+[Completed] Does not meet Criteria: powi
+[powi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.10245E8Price to Earnings: 27.80084745762712 Price to BookValue: 5.282164848228428Price to earnings x Price to book: 146.84865919163863
+[mgpi] Current Price per Share: 107.3 Max good value price: 44.900000000000006
+------------------------------
+[Completed] Does not meet Criteria: mgpi
+[mgpi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.03073E8Price to Earnings: 35.846325167037854 Price to BookValue: 3.356530581888367Price to earnings x Price to book: 120.31928667147719
+[sybt] Current Price per Share: 69.0 Max good value price: 42.25
+------------------------------
+[Completed] Does not meet Criteria: sybt
+[sybt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.50161E8Price to Earnings: 24.497041420118343 Price to BookValue: 2.689824952243585Price to earnings x Price to book: 65.89275326797895
+[mbcn] Current Price per Share: 27.9 Max good value price: 31.250000000000004
+------------------------------
+[Completed] Does not meet Criteria: mbcn
+[mbcn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.2822E8Price to Earnings: 13.391999999999998 Price to BookValue: 1.2624062400561533Price to earnings x Price to book: 16.906144366832002
+[lfvn] Current Price per Share: 3.83 Max good value price: 10.95
+------------------------------
+[Completed] Does not meet Criteria: lfvn
+[lfvn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.1516E7Price to Earnings: 5.2465753424657535 Price to BookValue: 1.5254839202309938Price to earnings x Price to book: 8.003566321211926
+[cgnx] Current Price per Share: 42.93 Max good value price: 18.6
+------------------------------
+[Completed] Does not meet Criteria: cgnx
+[cgnx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.389985E9Price to Earnings: 34.62096774193548 Price to BookValue: 5.355404251599837Price to earnings x Price to book: 185.40927783966208
+[tcfc] Current Price per Share: 35.06 Max good value price: 49.800000000000004
+------------------------------
+[Completed] Does not meet Criteria: tcfc
+[tcfc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.84871E8Price to Earnings: 10.56024096385542 Price to BookValue: 1.0717391648230388Price to earnings x Price to book: 11.31782383093245
+[ofc] Current Price per Share: 22.44 Max good value price: 16.3
+------------------------------
+[Completed] Does not meet Criteria: ofc
+[ofc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.722703E9Price to Earnings: 20.65030674846626 Price to BookValue: 1.464430651365906Price to earnings x Price to book: 30.24094216256221
+[kmpb] Current Price per Share: 21.25 Max good value price: 61.150000000000006
+------------------------------
+[Completed] Does not meet Criteria: kmpb
+[kmpb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.85E9Price to Earnings: 5.212591986917416 Price to BookValue: 0.47608898903508773Price to earnings x Price to book: 2.4816576493039118
+[fiiso] Current Price per Share: 130.0001 Max good value price: 50.199999999999996
+------------------------------
+[Completed] Does not meet Criteria: fiiso
+[fiiso Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.25801E8Price to Earnings: 38.844651394422314 Price to BookValue: 4.681607989199415Price to earnings x Price to book: 181.8554303057937
+[ese] Current Price per Share: 75.73 Max good value price: 46.65
+------------------------------
+[Completed] Does not meet Criteria: ese
+[ese Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.029882E9Price to Earnings: 24.350482315112544 Price to BookValue: 1.9010091700796792Price to earnings x Price to book: 46.290490176892
+[gbci] Current Price per Share: 49.77 Max good value price: 40.25
+------------------------------
+[Completed] Does not meet Criteria: gbci
+[gbci Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.896239E9Price to Earnings: 18.547826086956523 Price to BookValue: 1.9034324865213128Price to earnings x Price to book: 35.30453472826053
+[nhi] Current Price per Share: 51.31 Max good value price: 51.25
+------------------------------
+[Completed] Does not meet Criteria: nhi
+[nhi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.412988E9Price to Earnings: 15.017560975609758 Price to BookValue: 1.6215679498764322Price to earnings x Price to book: 24.35199556336383
+[mpb] Current Price per Share: 29.58 Max good value price: 39.5
+------------------------------
+[Completed] Does not meet Criteria: mpb
+[mpb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.95835E8Price to Earnings: 11.232911392405063 Price to BookValue: 0.9472444440993475Price to earnings x Price to book: 10.64031290751596
+[vrts] Current Price per Share: 156.61 Max good value price: 238.85
+------------------------------
+[Completed] Does not meet Criteria: vrts
+[vrts Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 9.30852E8Price to Earnings: 9.83525225036634 Price to BookValue: 1.224029735736723Price to earnings x Price to book: 12.03864121291992
+[mtx] Current Price per Share: 50.61 Max good value price: 59.65
+------------------------------
+[Completed] Does not meet Criteria: mtx
+[mtx Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.5769E9Price to Earnings: 12.726739312657166 Price to BookValue: 1.0461141560847231Price to earnings x Price to book: 13.31362215577062
+[uve] Current Price per Share: 8.56 Max good value price: 13.05
+------------------------------
+[Completed] Does not meet Criteria: uve
+[uve Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.66551E8Price to Earnings: 9.839080459770114 Price to BookValue: 0.7173053757867255Price to earnings x Price to book: 7.0576253065912296
+[hwbk] Current Price per Share: 22.66 Max good value price: 39.5
+------------------------------
+[Completed] Does not meet Criteria: hwbk
+[hwbk Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.24058E8Price to Earnings: 8.60506329113924 Price to BookValue: 1.2363253112253947Price to earnings x Price to book: 10.63865755153194
+[sitc-pa] Current Price per Share: 22.0 Max good value price: 4.6
+------------------------------
+[Completed] Does not meet Criteria: sitc-pa
+[sitc-pa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.090678E9Price to Earnings: 71.73913043478261 Price to BookValue: 2.2523437879960473Price to earnings x Price to book: 161.58118479102077
+[cb] Current Price per Share: 184.68 Max good value price: 183.85
+------------------------------
+[Completed] Does not meet Criteria: cb
+[cb Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 5.1667E10Price to Earnings: 15.067718248572207 Price to BookValue: 1.492829358985813Price to earnings x Price to book: 22.493532174394886
+[intu] Current Price per Share: 392.96 Max good value price: 101.85
+------------------------------
+[Completed] Does not meet Criteria: intu
+[intu Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.6441E10Price to Earnings: 57.87334315169366 Price to BookValue: 6.7370347090712235Price to earnings x Price to book: 389.8947215429496
+[eqr] Current Price per Share: 62.53 Max good value price: 42.95
+------------------------------
+[Completed] Does not meet Criteria: eqr
+[eqr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.1502869E10Price to Earnings: 21.838183934807915 Price to BookValue: 2.044592075055362Price to earnings x Price to book: 44.650177806709586
+[cpt] Current Price per Share: 113.0 Max good value price: 32.1
+------------------------------
+[Completed] Does not meet Criteria: cpt
+[cpt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.17728E9Price to Earnings: 52.80373831775701 Price to BookValue: 2.3250959167748317Price to earnings x Price to book: 122.77375635306355
+[bfs-pe] Current Price per Share: 20.55 Max good value price: 21.950000000000003
+------------------------------
+[Completed] Does not meet Criteria: bfs-pe
+[bfs-pe Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 5.30031E8Price to Earnings: 14.043280182232344 Price to BookValue: 0.9258883646428228Price to earnings x Price to book: 13.002509722148067
+[bwa] Current Price per Share: 33.6 Max good value price: 40.95
+------------------------------
+[Completed] Does not meet Criteria: bwa
+[bwa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.171E9Price to Earnings: 12.307692307692308 Price to BookValue: 1.1096818793473715Price to earnings x Price to book: 13.657623130429188
+[cmctp] Current Price per Share: 26.8 Max good value price: 82.15
+------------------------------
+[Completed] Does not meet Criteria: cmctp
+[cmctp Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.23142E8Price to Earnings: 4.893487522824103 Price to BookValue: 1.4794551682413941Price to earnings x Price to book: 7.239695406366896
+[cost] Current Price per Share: 468.15 Max good value price: 142.75
+------------------------------
+[Completed] Does not meet Criteria: cost
+[cost Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.0647E10Price to Earnings: 49.19264448336252 Price to BookValue: 10.035604711665131Price to earnings x Price to book: 493.67793475650063
+[lxp-pc] Current Price per Share: 49.5 Max good value price: 15.75
+------------------------------
+[Completed] Does not meet Criteria: lxp-pc
+[lxp-pc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.25965E9Price to Earnings: 47.14285714285714 Price to BookValue: 6.131392895138628Price to earnings x Price to book: 289.05137934224956
+[med] Current Price per Share: 114.35 Max good value price: 145.0
+------------------------------
+[Completed] Does not meet Criteria: med
+[med Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.29476E8Price to Earnings: 11.829310344827586 Price to BookValue: 9.730735817062621Price to earnings x Price to book: 115.10789386356318
+[reg] Current Price per Share: 54.32 Max good value price: 0.0
+------------------------------
+[Completed] Does not meet Criteria: reg
+[reg Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 6.206135E9Price to Earnings: -1.0 Price to BookValue: -1.0Price to earnings x Price to book: 1.0
+[sui] Current Price per Share: 127.04 Max good value price: 32.5
+------------------------------
+[Completed] Does not meet Criteria: sui
+[sui Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.8315E9Price to Earnings: 58.63384615384616 Price to BookValue: 2.000517397035051Price to earnings x Price to book: 117.29802928584594
+[cffi] Current Price per Share: 54.86 Max good value price: 97.39999999999999
+------------------------------
+[Completed] Does not meet Criteria: cffi
+[cffi Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.96283E8Price to Earnings: 8.448665297741274 Price to BookValue: 0.9837604884783705Price to earnings x Price to book: 8.311463100296212
+[emn] Current Price per Share: 72.39 Max good value price: 76.15
+------------------------------
+[Completed] Does not meet Criteria: emn
+[emn Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.407E9Price to Earnings: 14.25935653315824 Price to BookValue: 1.64418488569447Price to earnings x Price to book: 23.445018491547476
+[adc-pa] Current Price per Share: 16.86 Max good value price: 27.25
+------------------------------
+[Completed] Does not meet Criteria: adc-pa
+[adc-pa Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.97424E9Price to Earnings: 9.280733944954129 Price to BookValue: 0.3386759287712871Price to earnings x Price to book: 3.143161188486551
+[zeus] Current Price per Share: 23.15 Max good value price: 51.85
+------------------------------
+[Completed] Does not meet Criteria: zeus
+[zeus Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.99559E8Price to Earnings: 6.697203471552555 Price to BookValue: 0.5156659846985041Price to earnings x Price to book: 3.4535200228843888
+[ess] Current Price per Share: 221.21 Max good value price: 114.3
+------------------------------
+[Completed] Does not meet Criteria: ess
+[ess Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 6.039798E9Price to Earnings: 29.03018372703412 Price to BookValue: 2.385205361098169Price to earnings x Price to book: 69.24294985938661
+[len] Current Price per Share: 78.11 Max good value price: 139.3
+------------------------------
+[Completed] Does not meet Criteria: len
+[len Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.3127538E10Price to Earnings: 8.410983488872935 Price to BookValue: -3.377359060008895E-9Price to earnings x Price to book: -2.8406911289730232E-8
+[fr] Current Price per Share: 44.45 Max good value price: 27.5
+------------------------------
+[Completed] Does not meet Criteria: fr
+[fr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.371559E9Price to Earnings: 24.24545454545455 Price to BookValue: 2.475408360007067Price to earnings x Price to book: 60.01740087398954
+[ffic] Current Price per Share: 19.56 Max good value price: 26.049999999999997
+------------------------------
+[Completed] Does not meet Criteria: ffic
+[ffic Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.70812E8Price to Earnings: 11.26295585412668 Price to BookValue: 0.8742418588218457Price to earnings x Price to book: 9.846547461740098
+[cwco] Current Price per Share: 16.28 Max good value price: 5.5
+------------------------------
+[Completed] Does not meet Criteria: cwco
+[cwco Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.67473515E8Price to Earnings: 44.4 Price to BookValue: 1.4864708409565537Price to earnings x Price to book: 65.99930533847098
+[lmt] Current Price per Share: 403.96 Max good value price: 345.05
+------------------------------
+[Completed] Does not meet Criteria: lmt
+[lmt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.1432E10Price to Earnings: 17.560933198087234 Price to BookValue: 9.369392020584325Price to earnings x Price to book: 164.5352673801729
+[lsi] Current Price per Share: 103.63 Max good value price: 45.0
+------------------------------
+[Completed] Does not meet Criteria: lsi
+[lsi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.725258E9Price to Earnings: 34.54333333333333 Price to BookValue: 2.347431510904748Price to earnings x Price to book: 81.088109158353
+[thg] Current Price per Share: 132.96 Max good value price: 156.85
+------------------------------
+[Completed] Does not meet Criteria: thg
+[thg Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.5718E9Price to Earnings: 12.715333120816066 Price to BookValue: 1.8422620787308501Price to earnings x Price to book: 23.42497602690983
+[nick] Current Price per Share: 5.4 Max good value price: 9.65
+------------------------------
+[Completed] Does not meet Criteria: nick
+[nick Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.12322E8Price to Earnings: 8.39378238341969 Price to BookValue: 0.6057584444721426Price to earnings x Price to book: 5.084604559817985
+[matv] Current Price per Share: 23.36 Max good value price: 41.099999999999994
+------------------------------
+[Completed] Does not meet Criteria: matv
+[matv Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.945E8Price to Earnings: 8.525547445255475 Price to BookValue: 1.8470527313462923Price to earnings x Price to book: 15.747135694981528
+[el] Current Price per Share: 219.77 Max good value price: 72.35
+------------------------------
+[Completed] Does not meet Criteria: el
+[el Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.2165E10Price to Earnings: 45.56392536281963 Price to BookValue: -1.806576243321003E-8Price to earnings x Price to book: -8.231470511292126E-7
+[oled] Current Price per Share: 99.49 Max good value price: 47.95
+------------------------------
+[Completed] Does not meet Criteria: oled
+[oled Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.165309E9Price to Earnings: 31.123044838373303 Price to BookValue: 4.032251258636121Price to earnings x Price to book: 125.49593672211918
+[bksc] Current Price per Share: 16.27 Max good value price: 18.2
+------------------------------
+[Completed] Does not meet Criteria: bksc
+[bksc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.1617228E7Price to Earnings: 13.409340659340659 Price to BookValue: 2.170657564458642Price to earnings x Price to book: 29.107086736600632
+[fds] Current Price per Share: 413.69 Max good value price: 145.45
+------------------------------
+[Completed] Does not meet Criteria: fds
+[fds Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.267722E9Price to Earnings: 42.663114472327266 Price to BookValue: 12.393725200777459Price to earnings x Price to book: 528.7549169793359
+[hibb] Current Price per Share: 56.12 Max good value price: 85.35000000000001
+------------------------------
+[Completed] Does not meet Criteria: hibb
+[hibb Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.22543E8Price to Earnings: 9.862917398945518 Price to BookValue: 2.2282439362193567Price to earnings x Price to book: 21.97698588763274
+[amsf] Current Price per Share: 46.14 Max good value price: 63.3
+------------------------------
+[Completed] Does not meet Criteria: amsf
+[amsf Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.84989E8Price to Earnings: 10.933649289099527 Price to BookValue: 2.3111383369394973Price to earnings x Price to book: 25.2691760346892
+[nus] Current Price per Share: 35.53 Max good value price: 47.95
+------------------------------
+[Completed] Does not meet Criteria: nus
+[nus Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 9.41035E8Price to Earnings: 11.114702815432743 Price to BookValue: 1.902185286604643Price to earnings x Price to book: 21.142224160499364
+[plus] Current Price per Share: 42.78 Max good value price: 46.349999999999994
+------------------------------
+[Completed] Does not meet Criteria: plus
+[plus Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 6.76288E8Price to Earnings: 13.84466019417476 Price to BookValue: 1.701081904514053Price to earnings x Price to book: 23.5509009304567
+[slp] Current Price per Share: 49.08 Max good value price: 7.25
+------------------------------
+[Completed] Does not meet Criteria: slp
+[slp Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.77559E8Price to Earnings: 101.54482758620689 Price to BookValue: 5.593416176932737Price to earnings x Price to book: 567.9824813045353
+[hlio] Current Price per Share: 50.9 Max good value price: 27.7
+------------------------------
+[Completed] Does not meet Criteria: hlio
+[hlio Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.47024E8Price to Earnings: 27.563176895306857 Price to BookValue: 2.2174327060442502Price to earnings x Price to book: 61.11948993013664
+[gogl] Current Price per Share: 8.48 Max good value price: 10.150000000000002
+------------------------------
+[Completed] Does not meet Criteria: gogl
+[gogl Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.938108E9Price to Earnings: 12.532019704433496 Price to BookValue: 0.8769862495175708Price to earnings x Price to book: 10.990408959471427
+[logi] Current Price per Share: 44.02 Max good value price: 59.74999999999999
+------------------------------
+[Completed] Does not meet Criteria: logi
+[logi Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.362358E9Price to Earnings: 11.051046025104604 Price to BookValue: 3.0490921667418744Price to earnings x Price to book: 33.69565786945038
+[fbc] Current Price per Share: 32.37 Max good value price: 116.4
+------------------------------
+[Completed] Does not meet Criteria: fbc
+[fbc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.693E9Price to Earnings: 4.1713917525773185 Price to BookValue: 0.6410310312142591Price to earnings x Price to book: 2.673991556753294
+[are] Current Price per Share: 134.74 Max good value price: 64.75
+------------------------------
+[Completed] Does not meet Criteria: are
+[are Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.0462136E10Price to Earnings: 31.213899613899617 Price to BookValue: 1.0744379667313324Price to earnings x Price to book: 33.53739883491423
+[fix] Current Price per Share: 100.76 Max good value price: 55.49999999999999
+------------------------------
+[Completed] Does not meet Criteria: fix
+[fix Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.96845E8Price to Earnings: 27.232432432432436 Price to BookValue: 4.019435147701108Price to earnings x Price to book: 109.4589960763145
+[indt] Current Price per Share: 49.66 Max good value price: 2.5
+------------------------------
+[Completed] Does not meet Criteria: indt
+[indt Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.90071E8Price to Earnings: 297.96 Price to BookValue: 1.2975853435912947Price to earnings x Price to book: 386.6285289764622
+[arch] Current Price per Share: 143.21 Max good value price: 49.9
+------------------------------
+[Completed] Does not meet Criteria: arch
+[arch Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.188708E9Price to Earnings: 43.04909819639279 Price to BookValue: 2.23519451714803Price to earnings x Price to book: 96.22310825674431
+[smbk] Current Price per Share: 24.42 Max good value price: 28.650000000000002
+------------------------------
+[Completed] Does not meet Criteria: smbk
+[smbk Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.20427E8Price to Earnings: 12.785340314136125 Price to BookValue: 0.9815236654639212Price to earnings x Price to book: 12.549114089334532
+[yum] Current Price per Share: 108.93 Max good value price: 61.45
+------------------------------
+[Completed] Does not meet Criteria: yum
+[yum Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -8.568E9Price to Earnings: 26.589910496338486 Price to BookValue: -3.61755505285014Price to earnings x Price to book: -96.19046507086227
+[psmt] Current Price per Share: 58.14 Max good value price: 40.650000000000006
+------------------------------
+[Completed] Does not meet Criteria: psmt
+[psmt Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 9.68198E8Price to Earnings: 21.453874538745385 Price to BookValue: 1.8574310365028641Price to earnings x Price to book: 39.849092421504245
+[tsbk] Current Price per Share: 28.12 Max good value price: 44.949999999999996
+------------------------------
+[Completed] Does not meet Criteria: tsbk
+[tsbk Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.14319E8Price to Earnings: 9.383759733036708 Price to BookValue: 1.0824122348461873Price to earnings x Price to book: 10.157096343895926
+[chh] Current Price per Share: 114.19 Max good value price: 52.400000000000006
+------------------------------
+[Completed] Does not meet Criteria: chh
+[chh Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.16725E8Price to Earnings: 32.68797709923664 Price to BookValue: 15.284692586741857Price to earnings x Price to book: 499.62568124428986
+[pgc] Current Price per Share: 34.73 Max good value price: 33.699999999999996
+------------------------------
+[Completed] Does not meet Criteria: pgc
+[pgc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 5.20324E8Price to Earnings: 15.458456973293767 Price to BookValue: 1.2141262224498581Price to earnings x Price to book: 18.76851796988883
+[cwbc] Current Price per Share: 14.01 Max good value price: 17.0
+------------------------------
+[Completed] Does not meet Criteria: cwbc
+[cwbc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.07142E8Price to Earnings: 12.361764705882353 Price to BookValue: 1.1437228036624294Price to earnings x Price to book: 14.138432187627032
+[mcbc] Current Price per Share: 9.38 Max good value price: 13.35
+------------------------------
+[Completed] Does not meet Criteria: mcbc
+[mcbc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.43109E8Price to Earnings: 10.53932584269663 Price to BookValue: 1.3216068465585395Price to earnings x Price to book: 13.928845191819216
+[iosp] Current Price per Share: 84.41 Max good value price: 47.25
+------------------------------
+[Completed] Does not meet Criteria: iosp
+[iosp Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.0686E9Price to Earnings: 26.796825396825398 Price to BookValue: 1.9582451734418864Price to earnings x Price to book: 52.4747539968983
+[mtex] Current Price per Share: 22.99 Max good value price: 44.15
+------------------------------
+[Completed] Does not meet Criteria: mtex
+[mtex Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.1278E7Price to Earnings: 7.810872027180068 Price to BookValue: 2.06629404878278Price to earnings x Price to book: 16.139558385566062
+[fbp] Current Price per Share: 14.52 Max good value price: 12.65
+------------------------------
+[Completed] Does not meet Criteria: fbp
+[fbp Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.557916E9Price to Earnings: 17.217391304347824 Price to BookValue: 1.7520571873964963Price to earnings x Price to book: 30.16585418300054
+[ctsh] Current Price per Share: 58.49 Max good value price: 49.55
+------------------------------
+[Completed] Does not meet Criteria: ctsh
+[ctsh Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.195E10Price to Earnings: 17.70635721493441 Price to BookValue: 2.534329738931381Price to earnings x Price to book: 44.873747657950496
+[mco] Current Price per Share: 245.46 Max good value price: 142.95000000000002
+------------------------------
+[Completed] Does not meet Criteria: mco
+[mco Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.479E9Price to Earnings: 25.756558237145853 Price to BookValue: 18.169386849536103Price to earnings x Price to book: 467.9808705233087
+[bxmt] Current Price per Share: 22.64 Max good value price: 30.449999999999996
+------------------------------
+[Completed] Does not meet Criteria: bxmt
+[bxmt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.662987E9Price to Earnings: 11.152709359605913 Price to BookValue: 0.8268359292788078Price to earnings x Price to book: 9.221460807326212
+[dox] Current Price per Share: 81.27 Max good value price: 62.50000000000001
+------------------------------
+[Completed] Does not meet Criteria: dox
+[dox Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.635184E9Price to Earnings: 19.504799999999996 Price to BookValue: 2.791572176841667Price to earnings x Price to book: 54.44905699486134
+[lii] Current Price per Share: 221.03 Max good value price: 160.05
+------------------------------
+[Completed] Does not meet Criteria: lii
+[lii Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -4.013E8Price to Earnings: 20.71508903467666 Price to BookValue: -19.515079635883378Price to earnings x Price to book: -404.2566121761295
+[pahc] Current Price per Share: 12.86 Max good value price: 17.6
+------------------------------
+[Completed] Does not meet Criteria: pahc
+[pahc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.62442E8Price to Earnings: 10.960227272727272 Price to BookValue: -4.900130314507586E-8Price to earnings x Price to book: -5.370654191298371E-7
+[cfbk] Current Price per Share: 21.1 Max good value price: 46.349999999999994
+------------------------------
+[Completed] Does not meet Criteria: cfbk
+[cfbk Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.32691E8Price to Earnings: 6.828478964401295 Price to BookValue: 0.8454204904628047Price to earnings x Price to book: 5.772936035199088
+[hst] Current Price per Share: 16.3 Max good value price: 0.9999999999999998
+------------------------------
+[Completed] Does not meet Criteria: hst
+[hst Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 6.945E9Price to Earnings: 244.50000000000006 Price to BookValue: 1.6778617310727142Price to earnings x Price to book: 410.2371932472787
+[tcbio] Current Price per Share: 20.5 Max good value price: 58.550000000000004
+------------------------------
+[Completed] Does not meet Criteria: tcbio
+[tcbio Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.006832E9Price to Earnings: 5.25192143467122 Price to BookValue: 0.34010273221117776Price to earnings x Price to book: 1.7861928292901306
+[hoft] Current Price per Share: 13.23 Max good value price: 7.649999999999999
+------------------------------
+[Completed] Does not meet Criteria: hoft
+[hoft Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.64828E8Price to Earnings: 25.941176470588243 Price to BookValue: 0.5839494236259006Price to earnings x Price to book: 15.14833504817778
+[vhc] Current Price per Share: 1.18 Max good value price: 15.200000000000001
+------------------------------
+[Completed] Does not meet Criteria: vhc
+[vhc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.78966E8Price to Earnings: 1.164473684210526 Price to BookValue: 0.4709335125107562Price to earnings x Price to book: 0.5483896823316041
+[ablzf] Current Price per Share: 26.034 Max good value price: 26.75
+------------------------------
+[Completed] Does not meet Criteria: ablzf
+[ablzf Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.5957E10Price to Earnings: 14.598504672897196 Price to BookValue: 3.195057849821395Price to earnings x Price to book: 46.6430669507945
+[bfh] Current Price per Share: 30.77 Max good value price: 129.7
+------------------------------
+[Completed] Does not meet Criteria: bfh
+[bfh Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.275E9Price to Earnings: 3.558596761757903 Price to BookValue: 0.6741762859384615Price to earnings x Price to book: 2.399121547994579
+[hope] Current Price per Share: 13.09 Max good value price: 19.55
+------------------------------
+[Completed] Does not meet Criteria: hope
+[hope Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.000369E9Price to Earnings: 10.043478260869565 Price to BookValue: 0.7818282343657595Price to earnings x Price to book: 7.852274875586541
+[noc] Current Price per Share: 496.09 Max good value price: 378.95000000000005
+------------------------------
+[Completed] Does not meet Criteria: noc
+[noc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.3651E10Price to Earnings: 19.636759466948142 Price to BookValue: 5.622352085628159Price to earnings x Price to book: 110.40477554397438
+[zbh] Current Price per Share: 108.26 Max good value price: -15.0
+------------------------------
+[Completed] Does not meet Criteria: zbh
+[zbh Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.21246E10Price to Earnings: -108.26 Price to BookValue: 1.8734691673523252Price to earnings x Price to book: -202.82177205756273
+[ubfo] Current Price per Share: 6.56 Max good value price: 10.05
+------------------------------
+[Completed] Does not meet Criteria: ubfo
+[ubfo Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.10001E8Price to Earnings: 9.791044776119401 Price to BookValue: 1.0162271382987427Price to earnings x Price to book: 9.949925413790673
+[nxst] Current Price per Share: 173.39 Max good value price: 205.75
+------------------------------
+[Completed] Does not meet Criteria: nxst
+[nxst Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.8691E9Price to Earnings: 12.640826245443499 Price to BookValue: 2.344455860363877Price to earnings x Price to book: 29.635859170971514
+[hdb] Current Price per Share: 57.45 Max good value price: 11.65
+------------------------------
+[Completed] Does not meet Criteria: hdb
+[hdb Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.30757E10Price to Earnings: 73.96995708154506 Price to BookValue: 2.172152302627004Price to earnings x Price to book: 160.67401259989876
+[cme] Current Price per Share: 169.92 Max good value price: 95.35
+------------------------------
+[Completed] Does not meet Criteria: cme
+[cme Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.80017E10Price to Earnings: 26.730991085474567 Price to BookValue: 0.40440679042201005Price to earnings x Price to book: 10.810194309676133
+[aap] Current Price per Share: 161.32 Max good value price: 117.65
+------------------------------
+[Completed] Does not meet Criteria: aap
+[aap Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.794809E9Price to Earnings: 20.567785805354863 Price to BookValue: 3.470102720965905Price to earnings x Price to book: 71.37232948740582
+[lmat] Current Price per Share: 48.57 Max good value price: 15.85
+------------------------------
+[Completed] Does not meet Criteria: lmat
+[lmat Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.58033E8Price to Earnings: 45.965299684542586 Price to BookValue: 4.134108998965249Price to earnings x Price to book: 190.02555906600202
+[nem] Current Price per Share: 42.6 Max good value price: 43.89999999999999
+------------------------------
+[Completed] Does not meet Criteria: nem
+[nem Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.1599E10Price to Earnings: 14.555808656036449 Price to BookValue: 1.5653867614704384Price to earnings x Price to book: 22.78547017265627
+[npo] Current Price per Share: 87.7 Max good value price: 96.8
+------------------------------
+[Completed] Does not meet Criteria: npo
+[npo Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.3231E9Price to Earnings: 13.589876033057852 Price to BookValue: 1.378803876350994Price to earnings x Price to book: 18.737773753509636
+[plbc] Current Price per Share: 28.06 Max good value price: 47.5
+------------------------------
+[Completed] Does not meet Criteria: plbc
+[plbc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.16158E8Price to Earnings: 8.861052631578948 Price to BookValue: 1.4118573146920572Price to earnings x Price to book: 12.51054197376604
+[saft] Current Price per Share: 78.18 Max good value price: 122.2
+------------------------------
+[Completed] Does not meet Criteria: saft
+[saft Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.18623E8Price to Earnings: 9.59656301145663 Price to BookValue: 1.4077177956886138Price to earnings x Price to book: 13.509252528674612
+[axs-pe] Current Price per Share: 20.77 Max good value price: 42.25
+------------------------------
+[Completed] Does not meet Criteria: axs-pe
+[axs-pe Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.702631E9Price to Earnings: 7.37396449704142 Price to BookValue: 0.37390041700699034Price to earnings x Price to book: 2.757128400438529
+[bcbp] Current Price per Share: 16.82 Max good value price: 21.299999999999997
+------------------------------
+[Completed] Does not meet Criteria: bcbp
+[bcbp Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.71637E8Price to Earnings: 11.845070422535212 Price to BookValue: 1.0515320186130757Price to earnings x Price to book: 12.455470812022488
+[hth] Current Price per Share: 25.42 Max good value price: 60.300000000000004
+------------------------------
+[Completed] Does not meet Criteria: hth
+[hth Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.057403E9Price to Earnings: 6.323383084577114 Price to BookValue: 0.7978652625956121Price to earnings x Price to book: 5.045207705268771
+[aizn] Current Price per Share: 20.84 Max good value price: 178.29999999999998
+------------------------------
+[Completed] Does not meet Criteria: aizn
+[aizn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.4597E9Price to Earnings: 1.7532249018508135 Price to BookValue: 0.24864504144224947Price to earnings x Price to book: 0.43593067837827926
+[fslr] Current Price per Share: 129.42 Max good value price: 35.099999999999994
+------------------------------
+[Completed] Does not meet Criteria: fslr
+[fslr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.895827E9Price to Earnings: 55.30769230769231 Price to BookValue: 2.339869935712157Price to earnings x Price to book: 129.41280644438774
+[mvbf] Current Price per Share: 26.93 Max good value price: 41.8
+------------------------------
+[Completed] Does not meet Criteria: mvbf
+[mvbf Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.5291E8Price to Earnings: 9.663875598086124 Price to BookValue: 1.3021538256296705Price to earnings x Price to book: 12.583852580457066
+[ghl] Current Price per Share: 6.01 Max good value price: 17.7
+------------------------------
+[Completed] Does not meet Criteria: ghl
+[ghl Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.9844E7Price to Earnings: 5.093220338983051 Price to BookValue: 2.1573370311371476Price to earnings x Price to book: 10.987792845029032
+[cns] Current Price per Share: 60.44 Max good value price: 43.35
+------------------------------
+[Completed] Does not meet Criteria: cns
+[cns Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.75383E8Price to Earnings: 20.91349480968858 Price to BookValue: 6.191422550911581Price to earnings x Price to book: 129.48428338307815
+[krg] Current Price per Share: 17.26 Max good value price: -4.65
+------------------------------
+[Completed] Does not meet Criteria: krg
+[krg Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.953527E9Price to Earnings: -55.67741935483871 Price to BookValue: 0.9565906073893009Price to earnings x Price to book: -53.26049639851398
+[linc] Current Price per Share: 5.43 Max good value price: 13.05
+------------------------------
+[Completed] Does not meet Criteria: linc
+[linc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.38483E8Price to Earnings: 6.2413793103448265 Price to BookValue: 1.051608431576439Price to earnings x Price to book: 6.563487107425359
+[dpz] Current Price per Share: 314.52 Max good value price: 177.45
+------------------------------
+[Completed] Does not meet Criteria: dpz
+[dpz Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -4.210722E9Price to Earnings: 26.58664412510566 Price to BookValue: -2.68043894244265Price to earnings x Price to book: -71.26387626179731
+[txrh] Current Price per Share: 87.26 Max good value price: 32.05
+------------------------------
+[Completed] Does not meet Criteria: txrh
+[txrh Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 9.54019E8Price to Earnings: 40.839313572542906 Price to BookValue: 6.114789370777731Price to earnings x Price to book: 249.7238005432441
+[exr] Current Price per Share: 165.17 Max good value price: 65.7
+------------------------------
+[Completed] Does not meet Criteria: exr
+[exr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.89324E9Price to Earnings: 37.710045662100455 Price to BookValue: 5.681193809300223Price to earnings x Price to book: 214.23807796395383
+[vbfc] Current Price per Share: 48.98 Max good value price: 87.2
+------------------------------
+[Completed] Does not meet Criteria: vbfc
+[vbfc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.0053E7Price to Earnings: 8.42545871559633 Price to BookValue: 1.1968645889464307Price to earnings x Price to book: 10.084133182327323
+[ora] Current Price per Share: 83.9 Max good value price: 22.35
+------------------------------
+[Completed] Does not meet Criteria: ora
+[ora Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.98829E9Price to Earnings: 56.30872483221477 Price to BookValue: 2.3602421698544984Price to earnings x Price to book: 132.90222687972647
+[cube] Current Price per Share: 38.33 Max good value price: 14.1
+------------------------------
+[Completed] Does not meet Criteria: cube
+[cube Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.902519E9Price to Earnings: 40.776595744680854 Price to BookValue: 2.9640859550583474Price to earnings x Price to book: 120.8653347419005
+[drh-pa] Current Price per Share: 24.16 Max good value price: -10.15
+------------------------------
+[Completed] Does not meet Criteria: drh-pa
+[drh-pa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.581916E9Price to Earnings: -35.70443349753695 Price to BookValue: 3.2213467986922186Price to earnings x Price to book: -115.01636254640985
+[src-pa] Current Price per Share: 22.46 Max good value price: 16.55
+------------------------------
+[Completed] Does not meet Criteria: src-pa
+[src-pa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.352871E9Price to Earnings: 20.35649546827795 Price to BookValue: 0.7034975870178556Price to earnings x Price to book: 14.320745442073449
+[kop] Current Price per Share: 21.67 Max good value price: 63.75
+------------------------------
+[Completed] Does not meet Criteria: kop
+[kop Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.792E8Price to Earnings: 5.098823529411765 Price to BookValue: 1.1941972404535866Price to earnings x Price to book: 6.089000988383347
+[ctrn] Current Price per Share: 18.42 Max good value price: 53.2
+------------------------------
+[Completed] Does not meet Criteria: ctrn
+[ctrn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.3361E8Price to Earnings: 5.193609022556391 Price to BookValue: 1.1552186890202831Price to earnings x Price to book: 5.999754206321508
+[merc] Current Price per Share: 13.56 Max good value price: 10.850000000000003
+------------------------------
+[Completed] Does not meet Criteria: merc
+[merc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.52122E8Price to Earnings: 18.74654377880184 Price to BookValue: 1.192927623390886Price to earnings x Price to book: 22.36326991683928
+[ff] Current Price per Share: 5.87 Max good value price: 18.400000000000002
+------------------------------
+[Completed] Does not meet Criteria: ff
+[ff Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.62806E8Price to Earnings: 4.7853260869565215 Price to BookValue: 0.9774899979833034Price to earnings x Price to book: 4.677608387088579
+[lsbk] Current Price per Share: 13.49 Max good value price: 12.5
+------------------------------
+[Completed] Does not meet Criteria: lsbk
+[lsbk Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.0614E7Price to Earnings: 16.188 Price to BookValue: 0.955111378048478Price to earnings x Price to book: 15.461342987848761
+[codi-pc] Current Price per Share: 24.56 Max good value price: 20.150000000000002
+------------------------------
+[Completed] Does not meet Criteria: codi-pc
+[codi-pc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.354846E9Price to Earnings: 18.282878411910666 Price to BookValue: 1.300205507400841Price to earnings x Price to book: 23.771499202306188
+[esoa] Current Price per Share: 2.73 Max good value price: 3.69
+------------------------------
+[Completed] Does not meet Criteria: esoa
+[esoa Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.6682293E7Price to Earnings: 11.097560975609756 Price to BookValue: 1.2404190504121428Price to earnings x Price to book: 13.765626047256708
+[lmst] Current Price per Share: 19.32 Max good value price: 22.85
+------------------------------
+[Completed] Does not meet Criteria: lmst
+[lmst Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.26618E8Price to Earnings: 12.682713347921224 Price to BookValue: 1.0104414320238828Price to earnings x Price to book: 12.815139037221934
+[icfi] Current Price per Share: 112.82 Max good value price: 50.9
+------------------------------
+[Completed] Does not meet Criteria: icfi
+[icfi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 8.19417E8Price to Earnings: 33.2475442043222 Price to BookValue: 2.5910066587341976Price to earnings x Price to book: 86.1446084199584
+[wu] Current Price per Share: 13.47 Max good value price: 31.099999999999998
+------------------------------
+[Completed] Does not meet Criteria: wu
+[wu Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.483E8Price to Earnings: 6.496784565916399 Price to BookValue: 11.590701566071827Price to earnings x Price to book: 75.30229104259848
+[czwi] Current Price per Share: 12.21 Max good value price: 19.85
+------------------------------
+[Completed] Does not meet Criteria: czwi
+[czwi Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.64743E8Price to Earnings: 9.226700251889168 Price to BookValue: 0.7804663454592912Price to earnings x Price to book: 7.2011290262402605
+[gldd] Current Price per Share: 7.52 Max good value price: 12.549999999999999
+------------------------------
+[Completed] Does not meet Criteria: gldd
+[gldd Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.12188E8Price to Earnings: 8.988047808764941 Price to BookValue: 1.2056306617368773Price to earnings x Price to book: 10.836266027403965
+[cboe] Current Price per Share: 118.94 Max good value price: 62.65
+------------------------------
+[Completed] Does not meet Criteria: cboe
+[cboe Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.2619E9Price to Earnings: 28.47725458898643 Price to BookValue: 3.8673912563965787Price to earnings x Price to book: 110.13268540362546
+[rfp] Current Price per Share: 20.5 Max good value price: 17.2
+------------------------------
+[Completed] Does not meet Criteria: rfp
+[rfp Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.022E9Price to Earnings: 17.877906976744185 Price to BookValue: 0.7786100843224529Price to earnings x Price to book: 13.91991865867176
+[bx] Current Price per Share: 86.38 Max good value price: 63.3
+------------------------------
+[Completed] Does not meet Criteria: bx
+[bx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.1334098E10Price to Earnings: 20.46919431279621 Price to BookValue: 2.8410175658263124Price to earnings x Price to book: 58.15334060096608
+[g] Current Price per Share: 44.16 Max good value price: 25.2
+------------------------------
+[Completed] Does not meet Criteria: g
+[g Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 1.750438E9Price to Earnings: 26.285714285714285 Price to BookValue: 4.62892246498305Price to earnings x Price to book: 121.67453336526873
+[cdw] Current Price per Share: 159.62 Max good value price: 87.4
+------------------------------
+[Completed] Does not meet Criteria: cdw
+[cdw Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.6794E9Price to Earnings: 27.39473684210526 Price to BookValue: 2.8110952693022893Price to earnings x Price to book: 77.00921514062323
+[bmrc] Current Price per Share: 30.76 Max good value price: 35.0
+------------------------------
+[Completed] Does not meet Criteria: bmrc
+[bmrc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.09573E8Price to Earnings: 13.182857142857143 Price to BookValue: 1.2028038475192457Price to earnings x Price to book: 15.856391292725142
+[msci] Current Price per Share: 419.84 Max good value price: 112.05
+------------------------------
+[Completed] Does not meet Criteria: msci
+[msci Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -1.026446E9Price to Earnings: 56.20348058902275 Price to BookValue: -32.927552281951506Price to earnings x Price to book: -1850.6430455226932
+[alsn] Current Price per Share: 35.18 Max good value price: 58.3
+------------------------------
+[Completed] Does not meet Criteria: alsn
+[alsn Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.49E8Price to Earnings: 9.051457975986278 Price to BookValue: 4.520543435594125Price to earnings x Price to book: 40.917508935900855
+[pm] Current Price per Share: 84.65 Max good value price: 78.0
+------------------------------
+[Completed] Does not meet Criteria: pm
+[pm Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -7.26E9Price to Earnings: 16.278846153846153 Price to BookValue: -18.074562770688708Price to earnings x Price to book: -294.23302664207677
+[nxpi] Current Price per Share: 151.75 Max good value price: 39.099999999999994
+------------------------------
+[Completed] Does not meet Criteria: nxpi
+[nxpi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.226E9Price to Earnings: 58.216112531969316 Price to BookValue: 5.514713254117077Price to earnings x Price to book: 321.04516738322246
+[fsfg] Current Price per Share: 22.79 Max good value price: 55.35
+------------------------------
+[Completed] Does not meet Criteria: fsfg
+[fsfg Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.69213E8Price to Earnings: 6.176151761517615 Price to BookValue: 0.9549826578927151Price to earnings x Price to book: 5.898117824762866
+[vrsk] Current Price per Share: 170.56 Max good value price: 55.45
+------------------------------
+[Completed] Does not meet Criteria: vrsk
+[vrsk Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.37E9Price to Earnings: 46.138863841298466 Price to BookValue: 11.295818533670888Price to earnings x Price to book: 521.1762333010568
+[stwd] Current Price per Share: 18.68 Max good value price: 22.35
+------------------------------
+[Completed] Does not meet Criteria: stwd
+[stwd Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 7.09714E9Price to Earnings: 12.536912751677852 Price to BookValue: 0.8138846631629079Price to earnings x Price to book: 10.203601012002093
+[irt] Current Price per Share: 15.49 Max good value price: 5.4
+------------------------------
+[Completed] Does not meet Criteria: irt
+[irt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.68165E9Price to Earnings: 43.02777777777777 Price to BookValue: 0.9343232842285388Price to earnings x Price to book: 40.201854646389066
+[cownl] Current Price per Share: 25.15 Max good value price: 82.60000000000001
+------------------------------
+[Completed] Does not meet Criteria: cownl
+[cownl Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.34073E9Price to Earnings: 4.567191283292978 Price to BookValue: 0.5187044138640889Price to earnings x Price to book: 2.3690222776056604
+[gnrc] Current Price per Share: 154.26 Max good value price: 89.05000000000001
+------------------------------
+[Completed] Does not meet Criteria: gnrc
+[gnrc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.502592E9Price to Earnings: 25.984278495227397 Price to BookValue: 3.934543629437Price to earnings x Price to book: 102.23627741891379
+[nbhc] Current Price per Share: 37.43 Max good value price: 42.05
+------------------------------
+[Completed] Does not meet Criteria: nbhc
+[nbhc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.15551E8Price to Earnings: 13.351961950059453 Price to BookValue: 1.380449706137323Price to earnings x Price to book: 18.43171195031629
+[peco] Current Price per Share: 28.32 Max good value price: -15.0
+------------------------------
+[Completed] Does not meet Criteria: peco
+[peco Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.594645E9Price to Earnings: -1.0 Price to BookValue: -1.0Price to earnings x Price to book: 1.0
+[ebmt] Current Price per Share: 18.64 Max good value price: 34.849999999999994
+------------------------------
+[Completed] Does not meet Criteria: ebmt
+[ebmt Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.6279E8Price to Earnings: 8.022955523672886 Price to BookValue: 0.9201955063578844Price to earnings x Price to book: 7.382687620592957
+[cffn] Current Price per Share: 8.25 Max good value price: 8.549999999999999
+------------------------------
+[Completed] Does not meet Criteria: cffn
+[cffn Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.13174E9Price to Earnings: 14.473684210526317 Price to BookValue: 1.0122340758478094Price to earnings x Price to book: 14.650756360955137
+[sbra] Current Price per Share: 12.53 Max good value price: 2.6
+------------------------------
+[Completed] Does not meet Criteria: sbra
+[sbra Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: true
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.317726E9Price to Earnings: 72.28846153846153 Price to BookValue: 0.8722962553749164Price to earnings x Price to book: 63.056954306813665
+[rm] Current Price per Share: 28.58 Max good value price: 72.65
+------------------------------
+[Completed] Does not meet Criteria: rm
+[rm Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.98584E8Price to Earnings: 5.900894700619407 Price to BookValue: 0.9171832600541221Price to earnings x Price to book: 5.4122018387502004
+[fbhs] Current Price per Share: 56.76 Max good value price: 62.70000000000001
+------------------------------
+[Completed] Does not meet Criteria: fbhs
+[fbhs Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.9524E9Price to Earnings: 13.57894736842105 Price to BookValue: 2.4861238354694484Price to earnings x Price to book: 33.758944713216714
+[voya-pb] Current Price per Share: 23.12 Max good value price: 60.64999999999999
+------------------------------
+[Completed] Does not meet Criteria: voya-pb
+[voya-pb Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 6.213E9Price to Earnings: 5.71805441055235 Price to BookValue: 0.3643778089039112Price to earnings x Price to book: 2.0835321373104105
+[htbi] Current Price per Share: 21.91 Max good value price: 18.5
+------------------------------
+[Completed] Does not meet Criteria: htbi
+[htbi Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.88845E8Price to Earnings: 17.764864864864865 Price to BookValue: 0.8800211551132199Price to earnings x Price to book: 15.633456898808634
+[zts] Current Price per Share: 147.37 Max good value price: 53.99999999999999
+------------------------------
+[Completed] Does not meet Criteria: zts
+[zts Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.58E9Price to Earnings: 40.93611111111112 Price to BookValue: 15.06322724151965Price to earnings x Price to book: 616.6299440507642
+[evtc] Current Price per Share: 32.22 Max good value price: 25.25
+------------------------------
+[Completed] Does not meet Criteria: evtc
+[evtc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.12601E8Price to Earnings: 19.140594059405938 Price to BookValue: 4.197401963866633Price to earnings x Price to book: 80.3407670945245
+[cvmca] Current Price per Share: 6.51 Max good value price: 9.9
+------------------------------
+[Completed] Does not meet Criteria: cvmca
+[cvmca Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.597668E9Price to Earnings: 9.863636363636363 Price to BookValue: 0.31837173931004437Price to earnings x Price to book: 3.14030306501271
+[musa] Current Price per Share: 269.14 Max good value price: 164.3
+------------------------------
+[Completed] Does not meet Criteria: musa
+[musa Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.627E8Price to Earnings: 24.571515520389532 Price to BookValue: 8.240235419588304Price to earnings x Price to book: 202.47507250407756
+[glpi] Current Price per Share: 46.35 Max good value price: 31.849999999999994
+------------------------------
+[Completed] Does not meet Criteria: glpi
+[glpi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.448662E9Price to Earnings: 21.828885400313975 Price to BookValue: 3.433641089805264Price to earnings x Price to book: 74.9525578551683
+[ccs] Current Price per Share: 45.14 Max good value price: 121.10000000000001
+------------------------------
+[Completed] Does not meet Criteria: ccs
+[ccs Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.951164E9Price to Earnings: 5.591246903385631 Price to BookValue: 0.7466365935410862Price to earnings x Price to book: 4.174629541590995
+[alle] Current Price per Share: 92.42 Max good value price: 64.95
+------------------------------
+[Completed] Does not meet Criteria: alle
+[alle Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 7.797E8Price to Earnings: 21.344110854503466 Price to BookValue: 10.411686580069258Price to earnings x Price to book: 222.22819254734432
+[brx] Current Price per Share: 18.48 Max good value price: 11.149999999999999
+------------------------------
+[Completed] Does not meet Criteria: brx
+[brx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 2.802993E9Price to Earnings: 24.860986547085204 Price to BookValue: 1.9757036195523858Price to earnings x Price to book: 49.11794110671941
+[oxbrw] Current Price per Share: 0.2289 Max good value price: 7.1499999999999995
+------------------------------
+[Completed] Does not meet Criteria: oxbrw
+[oxbrw Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.6405E7Price to Earnings: 0.4802097902097902 Price to BookValue: 0.08067084817433709Price to earnings x Price to book: 0.03873893107784425
+[hlt] Current Price per Share: 121.37 Max good value price: 9.6
+------------------------------
+[Completed] Does not meet Criteria: hlt
+[hlt Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: -7.89E8Price to Earnings: 189.640625 Price to BookValue: -42.19297927207858Price to earnings x Price to book: -8001.502959769027
+[cio-pa] Current Price per Share: 19.78 Max good value price: 53.05
+------------------------------
+[Completed] Does not meet Criteria: cio-pa
+[cio-pa Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.75993E8Price to Earnings: 5.592836946277098 Price to BookValue: 0.9387191091709638Price to earnings x Price to book: 5.250102915947691
+[lpg] Current Price per Share: 14.51 Max good value price: 28.55
+------------------------------
+[Completed] Does not meet Criteria: lpg
+[lpg Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.44349335E8Price to Earnings: 7.6234676007005255 Price to BookValue: 0.689740658112794Price to earnings x Price to book: 5.258215560008742
+[istr] Current Price per Share: 20.31 Max good value price: 18.450000000000003
+------------------------------
+[Completed] Does not meet Criteria: istr
+[istr Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.19369E8Price to Earnings: 16.512195121951216 Price to BookValue: 0.9275810098053964Price to earnings x Price to book: 15.316398625323249
+[mdt] Current Price per Share: 82.42 Max good value price: 49.65
+------------------------------
+[Completed] Does not meet Criteria: mdt
+[mdt Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 5.2843E10Price to Earnings: 24.900302114803626 Price to BookValue: 2.07309982550915Price to earnings x Price to book: 51.620811969324514
+[krny] Current Price per Share: 10.33 Max good value price: 8.9
+------------------------------
+[Completed] Does not meet Criteria: krny
+[krny Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 8.94E8Price to Earnings: 17.41011235955056 Price to BookValue: 0.7883474113534675Price to earnings x Price to book: 13.725217010024695
+[qsr] Current Price per Share: 52.31 Max good value price: 33.300000000000004
+------------------------------
+[Completed] Does not meet Criteria: qsr
+[qsr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: true
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 3.909E9Price to Earnings: 23.563063063063062 Price to BookValue: 4.092051118188795Price to earnings x Price to book: 96.4212585551603
+[wba] Current Price per Share: 30.52 Max good value price: 38.8
+------------------------------
+[Completed] Does not meet Criteria: wba
+[wba Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.1157E10Price to Earnings: 11.79896907216495 Price to BookValue: 0.8465870587193888Price to earnings x Price to book: 9.988854522725159
+[agr] Current Price per Share: 39.64 Max good value price: 30.05
+------------------------------
+[Completed] Does not meet Criteria: agr
+[agr Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 2.0386E10Price to Earnings: 19.78702163061564 Price to BookValue: 0.7517798742686158Price to earnings x Price to book: 14.875484633614608
+[khc] Current Price per Share: 33.03 Max good value price: 13.45
+------------------------------
+[Completed] Does not meet Criteria: khc
+[khc Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: true
+6. hasModeratePricetoEarningsRatio: false
+7. hasModeratePricetoAssets: false
+------------------------------
+Bookvalue: 4.9002E10Price to Earnings: 36.836431226765804 Price to BookValue: 0.8260127105712012Price to earnings x Price to book: 30.42736040539046
+[iipr-pa] Current Price per Share: 26.0 Max good value price: 49.25
+------------------------------
+[Completed] Does not meet Criteria: iipr-pa
+[iipr-pa Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.975772E9Price to Earnings: 7.9187817258883255 Price to BookValue: 0.3681139088923216Price to earnings x Price to book: 2.915013694781836
+[hcc] Current Price per Share: 32.33 Max good value price: 40.45
+------------------------------
+[Completed] Does not meet Criteria: hcc
+[hcc Output]:
+1. hasAdequateMarketCap: false
+2. isFinanciallySound: true
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 1.291057E9Price to Earnings: 11.988875154511742 Price to BookValue: 1.2934818170073048Price to earnings x Price to book: 15.507392018731581
+[pfsi] Current Price per Share: 45.9 Max good value price: 203.4
+------------------------------
+[Completed] Does not meet Criteria: pfsi
+[pfsi Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 3.461385E9Price to Earnings: 3.384955752212389 Price to BookValue: 0.6957155765105586Price to earnings x Price to book: 2.354966442613174
+[xrx] Current Price per Share: 14.29 Max good value price: 20.400000000000002
+------------------------------
+[Completed] Does not meet Criteria: xrx
+[xrx Output]:
+1. hasAdequateMarketCap: true
+2. isFinanciallySound: false
+3. hasEarningsStability: false
+4. dividendRecord: false
+5. hasEarningsGrowth: false
+6. hasModeratePricetoEarningsRatio: true
+7. hasModeratePricetoAssets: true
+------------------------------
+Bookvalue: 4.106E9Price to Earnings: 10.50735294117647 Price to BookValue: 0.5414249422649781Price to earnings x Price to book: 5.688942959534217
